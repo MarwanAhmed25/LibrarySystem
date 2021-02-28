@@ -1,0 +1,2 @@
+F:\C++\MyProjects\LibrarySystem\Debug\LibrarySystem.exe
+F:\C++\MyProjects\LibrarySystem\Debug\LibrarySystem.pdb
